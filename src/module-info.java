@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Laiany
+ *
+ */
+module course {
+}
